@@ -9,5 +9,5 @@ cd lab-test
 
 # 실행
 <pre>
-docker run -d -p 8080:8080 --name labtest smlinux/lab-test
+docker run -d -p 8080:8080 --name labtest loverman85/lab-test
 </pre>
